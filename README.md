@@ -10,8 +10,7 @@ It will only provide the minimal needed data for successful decompression and CR
 
 Custom metadata can be stored per file and filtering can be performed on the incoming files.
 
-Currently, up to 100 million files per zip file is supported.
-If a streaming format is added, this limit may be lifted.
+Currently, up to 1 billion files per zip file is supported.
 
 ## Usage
 
@@ -208,3 +207,4 @@ zipindex contains code that is Copyright (c) 2009 The Go Authors. See `GO_LICENS
 ## Contributing
 
 Contributions are welcome, please send PRs for any enhancements.
+
