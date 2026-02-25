@@ -1,4 +1,4 @@
-module github.com/minio/zipindex
+module github.com/stanford-rc/minio-zipindex
 
 go 1.23
 
